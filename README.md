@@ -18,7 +18,7 @@
 - sklearn
 - pandas
 ## Getting Start
-For dataset, you could download RAVDESS or use records in testdata to test code.
+For dataset, you could download RAVDESS or use records in ` /testdata`  to test code.
 ### Training model
 Modify the path in ` /base-model.ipynb` , change the path in [] into the path where you download the dataset.
 ``` 
