@@ -30,9 +30,8 @@ You could change the training epoch in ` /base-model.ipynb`
 ``` 
 for epoch in range(1,60):
 ``` 
-### Test on no gender input
+### Test
 For dataset, you could download RAVDESS or use records in testdata to test code.
-### Training model
 Modify the path in ` /emotion-without_gender.ipynb` or ` /emotion-gender.ipynb` , change the path in [] into the path where you download the dataset.
 ``` 
 path ='[../input/ravdess/RAVDESS]'
