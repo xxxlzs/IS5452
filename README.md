@@ -42,4 +42,5 @@ You could change the training epoch in ` /emotion-without_gender.ipynb` or ` /em
 ``` 
 for epoch in range(1,100):
 ``` 
-In this files, output of confusiom matrix, classification report and emotion count report are all saved. Or if you want to retest, just run the files.
+In this files, output of confusiom matrix, classification report and emotion count report are all saved. 
+If you want to retest, just run the files. Or preload our pretrained model, for no-gender the pretrained model is named as `100.pth` and with gender is `gender100.pth`
